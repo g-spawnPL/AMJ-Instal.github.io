@@ -837,7 +837,7 @@ textarea {
 
 .logo {
   color: var(--logo-color) !important;
-  border: 2px solid var(--border-color-darkest);
+  border: 0px solid var(--border-color-darkest);
   font-family: var(--logo-font);
   font-variation-settings: "wght" var(--font-weight-bold);
   padding: 0.1rem 1.6rem;
